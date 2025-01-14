@@ -24,7 +24,22 @@ A full-stack e-commerce platform built using modern web technologies. This proje
 - **Responsive Design**: Built with Tailwind CSS for an intuitive and mobile-friendly user interface.
 
 ---
+## Screenshots 📸
 
+### Home Page
+![Home Page](screenshots/homepage_pic.png)
+
+### Product Page
+![Product Page](screenshots/card_components.png)
+
+### Cart Page
+
+
+### Checkout Page
+
+
+
+---
 ## Tech Stack 🖥️
 
 ### Backend:
