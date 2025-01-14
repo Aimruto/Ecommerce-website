@@ -33,10 +33,24 @@ A full-stack e-commerce platform built using modern web technologies. This proje
 ![Product Page](screenshots/card_components.png)
 
 ### Cart Page
-
+![Cart Page](screenshots/cart_page.png)
 
 ### Checkout Page
+![Checkout Page](screenshots/stripe_page_pic.png)
 
+### SignUp Page
+![Cart Page](screenshots/signup_page.png)
+
+### Login Page
+![Cart Page](screenshots/login_page.png)
+
+### Successful Purchase Page
+![Cart Page](screenshots/successful_purchase.png)
+
+### Admin Dashboard Page
+![Cart Page](screenshots/admin_dashboard.png)
+
+![Cart Page](screenshots/featuring.png)
 
 
 ---
